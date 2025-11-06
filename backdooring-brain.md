@@ -506,6 +506,12 @@ The brain of modern AI can be backdoored. Now it's up to us to ensure it isn't.
 13. Giskard AI (April 2024). "Data Poisoning attacks on Enterprise LLM applications: AI risks, detection, and prevention." Retrieved from: https://www.giskard.ai/knowledge/data-poisoning-attacks-on-enterprise-llm-applications-ai-risks-detection-and-prevention
 
 ---
+Special thanks to the project team:
+
+Rezig merhoune kheireddine
+Badreddine Bensalma
+HABAZ Samy
+Wail Mansour
 
 <div align="center">
   <em>— End of article —</em>
